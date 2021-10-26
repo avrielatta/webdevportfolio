@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "launch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avrielatta/portfolio.git"
+  },
+  "author": "Avrie Latta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avrielatta/portfolio/issues"
+  },
+  "homepage": "https://github.com/avrielatta/portfolio#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "node": "^16.11.1",
+    "pbkdf2-password": "^1.2.1"
+  }
+}
