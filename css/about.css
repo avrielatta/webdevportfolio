@@ -38,7 +38,7 @@ html, body {
 .picture {
     width: 756px;
     height: 756px;
-    background-image: url('/img/me.jpg');
+    background-image: url('/webdevportfolio/img/me.jpg');
     border-radius: 50%;
 }
 

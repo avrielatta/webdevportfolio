@@ -84,7 +84,7 @@ p {
 }
 
 .panel-2 {
-    background-image: url('img/me.jpg');
+    background-image: url('/webdevportfolio/img/me.jpg');
     background-position-x: center;
     background-repeat: no-repeat;
     background-size: 100%;
