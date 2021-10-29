@@ -7,17 +7,17 @@ $(() => {
 
 // Page webbing
 $('.panel-1').click(() => {
-    window.location.href = '/html/projects.html';
+    window.location.href = 'html/projects.html';
 });
 
 $('.panel-2').click(() => {
-    window.location.href = '/html/about.html';
+    window.location.href = 'html/about.html';
 });
 
 $('.panel-3').click(() => {
-    window.location.href = '/html/contact.html';
+    window.location.href = 'html/contact.html';
 });
 
 $('.panel-4').click(() => {
-    window.location.href = '/html/bonus.html';
+    window.location.href = 'html/bonus.html';
 });
