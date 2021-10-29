@@ -1,5 +1,5 @@
 const openLanding = () => {
-    window.location.href = "/html/landing.html";
+    window.location.href = "html/landing.html";
 };
 
 const closeTitle = () => {
