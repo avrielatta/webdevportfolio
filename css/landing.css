@@ -53,12 +53,6 @@ html, body {
     grid-gap: 2rem;
 }
 
-p {
-    margin: auto;
-    margin-bottom: 2rem;
-    width: 60%;
-}
-
 .panel {
     padding: 2rem;
     background: #ededed;
