@@ -47,6 +47,10 @@ body {
     height: 15rem;
 }
 
+.splash {
+    background: red;
+}
+
 .main-wrapper {
     display: grid;
     border: none;
