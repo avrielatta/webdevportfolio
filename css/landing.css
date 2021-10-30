@@ -56,9 +56,9 @@ body {
 .splash-text {
     color: white;
     font-size: 2rem;
-    position: absolute;
-    left: 50%;
-    top: 50%;
+    position: abs;
+    left: 50vw;
+    top: 50vh;
     transform: translate(-50%, -50%);
 }
 
